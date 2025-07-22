@@ -66,7 +66,7 @@ This is a full-stack **College Management System** developed using **Java (Swing
 ![Admin Login](images/login.png)
 
 ### 🧑‍💼 Admin Dashboard
-![Admin Dashboard](images/dashboard.png)
+![Admin Dashboard](images/admin.png)
 
 ### ➕ Add Student
 ![Add Student](images/addstudent.png)
